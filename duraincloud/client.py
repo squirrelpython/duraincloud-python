@@ -303,6 +303,7 @@ PROJECTS = {
     "adspower": "1459",
     "me88": "1458",
     "sourceforge": "1457",
+    "vodafone yanımda": "1456",
     "dosh ": "1455",
     "justdial": "1454",
     "yoo1": "1453",
